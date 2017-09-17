@@ -1,0 +1,10 @@
+.nav-pills {
+    padding-left: 5px;
+    margin-bottom: 0;
+    border: 1px solid #ddd;
+    border-radius: 1px;
+    padding: 5px;
+    border-top-color: transparent;
+    border-top: none!important
+
+}
